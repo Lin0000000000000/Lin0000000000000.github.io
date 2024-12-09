@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<html>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>小新的個人網站介紹</title>
+	<style>
+		body{
+			background-color: #013220;
+			color: white;
+			font-family: Arial, sans-serif;
+			text-align: center;
+			margin: 0;
+			padding: 0;
+			}
+			.profile{
+				padding: 20pxj
+			}
+			.profile img {
+				border-radius: 50%;
+				width: 150px;
+				height: 150px;
+				margin-top: 80px; /*改這*/
+				margin-bottom: 20px;
+			}
+			.links a {
+				text-decoration: none;
+				margin: 0 10px;
+				font-size:18px;
+			}
+			.links a.facebook {
+				color: #1877F2; /* facebook 藍色 */
+			}
+			.links a.google {
+				color: #DB84437; /* Google 紅色*/
+			}
+			.links a.yahoo {
+				color: #6001D2; /*Yahoo 紫色 */
+			}
+			.links a:hover {
+				text-decoration: underline;
+			}
+		</style>
+	</head>
+	<body>
+		<
+				
