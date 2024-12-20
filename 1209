@@ -40,10 +40,18 @@
 			.links a:hover {
 				text-decoration: underline;
 			}
-		</style>
-	</head>
-	<body>
-	    <div class="profile">
-		<img src="小新.png" ait="小新的大頭照"  width="400" height="400">
-		<h1>我叫 : 小新</h1>
-				
+	</style>
+</head>
+<body>
+	<div class="profile">
+			<img src="小新.png" ait="小新的大頭照"  width="400" height="400">
+			<h1>我叫 : 小新</h1>
+			<p>喜歡大美女，養一隻寵物名叫小白</p>
+			<div class="links">
+				<a href="https://www.Facebook.com" target="_blank" class="Facebook">Facebook</a>
+				<a href="https://www.Google.com" target="_blank" class="Google">Google</a>
+				<a href="https://www.Yahoo.com" target="_blank" class="Yahoo">Yahoo</a>
+			</div>
+		</div>
+</body>
+</html>
