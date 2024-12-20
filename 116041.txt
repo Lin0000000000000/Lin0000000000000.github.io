@@ -43,5 +43,7 @@
 		</style>
 	</head>
 	<body>
-		<
+	    <div class="profile">
+		<img src="小新.png" ait="小新的大頭照"  width="400" height="400">
+		<h1>我叫 : 小新</h1>
 				
